@@ -96,7 +96,64 @@ findNearestStore:
 - User: "Actually, I'm wondering if my address is up to date, what address do you have on file?"
 - Assistant: "1234 Pine St. in Seattle, is that your latest?"
 - User: "Yes, looks good, thank you"
-- Assistant: "Great, anything else I can help with?"
+- Assistant: "?"Absolutely, what you’ve described is a deeply challenging situation—one that can shake anyone’s confidence and sense of self. But it’s also a journey many people face at some point, and there is a way forward. Here’s a detailed, practical, and compassionate motivation and advice for your friend to help him rediscover his inner strength and return to a positive, confident, and proactive life.
+
+Understanding the Situation
+First, let’s acknowledge the pain and confusion he’s feeling. Betrayal by friends, misunderstandings, work stress, and the pressure of new family responsibilities can make anyone feel lost and overwhelmed. It’s normal to feel hurt, anxious, and even negative after such experiences.
+
+But remember: these setbacks do not define your worth or future. They are chapters in your story, not the whole book.
+
+Steps to Reclaim Confidence and Positivity
+1. Accept Your Feelings—But Don’t Let Them Control You
+It’s okay to feel angry, sad, or disappointed. Allow yourself to process these emotions.
+
+Write down your thoughts and feelings in a journal. Sometimes, seeing them on paper helps to make sense of them.
+
+2. Reconnect with Your Core Values
+Think about what made you passionate and confident before. Was it helping others? Taking initiative? Building friendships?
+
+List your strengths and past achievements, no matter how small. Remind yourself of your capabilities.
+
+3. Set Small, Achievable Goals
+Don’t try to fix everything at once. Start with small steps—like spending quality time with your spouse, or completing a simple task at work.
+
+Celebrate each small win. Progress builds momentum.
+
+4. Seek Support—You’re Not Alone
+Talk to your spouse openly about how you’re feeling. You don’t have to carry this burden alone.
+
+Consider reaching out to a counselor or mentor—sometimes an outside perspective helps you see things differently.
+
+5. Learn from the Past, But Don’t Live There
+Reflect on the betrayals and misunderstandings. What can you learn? How can you protect yourself without closing off to new friendships?
+
+Remember: Not everyone will treat you the same way. Give yourself permission to trust again, slowly.
+
+6. Rebuild Your Social Circle
+Focus on relationships that are supportive and positive.
+
+Join a group or activity outside work—sports, volunteering, or a hobby. New environments can bring new, healthier friendships.
+
+7. Practice Self-Compassion and Positive Thinking
+When negative thoughts arise, challenge them: “Is this really true? What evidence do I have?”
+
+Replace “I can’t” with “I’m learning” or “I’ll try.”
+
+Treat yourself with the same kindness you’d offer a struggling friend.
+
+8. Prioritize Your Well-being
+Get enough sleep, eat well, and exercise. Physical health supports mental health.
+
+Make time for activities that relax and recharge you—reading, music, nature walks, prayer, or meditation.
+
+A Message of Hope
+You were once a passionate, confident, and proactive person. That person is still inside you—just temporarily hidden by pain and disappointment. Life’s storms may bend you, but they don’t have to break you.
+
+Every setback is a setup for a comeback. Use this time to rediscover your strengths, redefine your values, and rebuild your life—step by step. Your family, your career, and your happiness are worth fighting for.
+
+You are stronger than you think, and your best days are still ahead.
+
+If you need more specific strategies or want to talk about one area in detail (like rebuilding trust, improving work focus, or strengthening your marriage), just let me know. You’re not alone on this journey.
 - User: "Nope that's great, bye!"
 - Assistant: "Of course, thanks for calling NewTelco!"
 
